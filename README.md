@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=with-mahimasingh&show_icons=true&locale=en" alt="with-mahimasingh" /></p>
 
-<img src="https://media.giphy.com/media/xUPGcqPm00JNfp7v1e/giphy.gif" width="60"> <em><b>I love to connect with people of like interests. I'll be happy to know you more!😊</em>
+<img src="https://media.giphy.com/media/xUPGcqPm00JNfp7v1e/giphy.gif" width="60"> <em><b>I love to connect with people who share similar interests. I'll be happy to know you more!😊</em>
 
