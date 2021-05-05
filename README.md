@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=with-mahimasingh&label=Profile%20views&color=0e75b6&style=flat" alt="with-mahimasingh" /> <img src="https://media.giphy.com/media/iIGu6qCuXnBY7dupE2/giphy.gif" width="120" align="left"> </br
 </p>
 
-- 🌱 I’m currently learning **DSA, Web development**
+- 🌱 I’m currently learning **DSA, Flutter**
 
 - ⚡ Fun fact **I love to sketch.**
 
