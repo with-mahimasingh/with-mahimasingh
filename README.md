@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80"> Hi 👋, I'm Mahima Singh</h1>
-<h3 align="center">A CSE sophomore, trying to explore all my interests.</h3>
+<h3 align="center">A CSE Undergraduate, trying to explore all my interests.</h3>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=with-mahimasingh&label=Profile%20views&color=0e75b6&style=flat" alt="with-mahimasingh" /> <img src="https://media.giphy.com/media/iIGu6qCuXnBY7dupE2/giphy.gif" width="120" align="left"> </br
 </p>
